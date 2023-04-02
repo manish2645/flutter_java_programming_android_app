@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1030623393416",
+    "project_id": "javaprogramming-6425c",
+    "storage_bucket": "javaprogramming-6425c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1030623393416:android:739876989f2ef8c940113d",
+        "android_client_info": {
+          "package_name": "com.insanecoder.learn_java_program"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1030623393416-tbepfl7nof7pmspdb93gpih91c6t2bch.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-yaM-pgxtUDOBbenIM3-rf7SP8hQFwP4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1030623393416-tbepfl7nof7pmspdb93gpih91c6t2bch.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1030623393416-vtnh2b7ja6dtemv2dj9nrgk39qur9vs1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.learnJavaProgram"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

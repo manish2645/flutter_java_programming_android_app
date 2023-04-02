@@ -1,0 +1,12 @@
+{
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "editor.cursorBlinking": "smooth",
+    "editor.cursorSmoothCaretAnimation": "explicit",
+    "editor.cursorSurroundingLinesStyle": "all",
+    "editor.cursorWidth": 0,
+    "editor.find.cursorMoveOnType": true,
+    "files.autoSave": "afterDelay",
+    "cSpell.words": [
+        "Fluttertoast"
+    ]
+}
